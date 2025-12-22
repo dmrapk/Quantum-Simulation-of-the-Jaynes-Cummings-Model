@@ -27,8 +27,6 @@ This project uses standard scientific Python packages. Notably
 
 - Jupyter / JupyterLab  
 - `numpy`, `scipy`, `matplotlib`  
-- Qiskit (version used: 2.1.1)
-- Qiskit_Aer (version used: 0.17.1)
+- `Qiskit` (version used: 2.1.1)
+- `Qiskit_Aer` (version used: 0.17.1)
 
-conda create -n jcm-env python=3.10 jupyter numpy scipy matplotlib pandas
-conda activate jcm-env
