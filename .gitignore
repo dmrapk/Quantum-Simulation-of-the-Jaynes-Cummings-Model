@@ -12,6 +12,9 @@
 *.cb2
 .*.lb
 
+/main.tex
+/References.bib
+
 ## Intermediate documents:
 *.dvi
 *.xdv
