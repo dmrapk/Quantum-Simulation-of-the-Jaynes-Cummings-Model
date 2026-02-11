@@ -1,6 +1,6 @@
 # Quantum Simulation of Light-Matter Interaction Models
 
-**Hamiltonian simulation of bosonic systems** — final project for the course **"Quantum Optics"** (Theoretical Physics, M.Sc.), University of Porto.
+**Hamiltonian simulation of bosonic systems** — final project for the course **"Quantum Optics"** (Theoretical Physics, M.Sc.), University of Porto. (2025/2026)
 
 ---
 
